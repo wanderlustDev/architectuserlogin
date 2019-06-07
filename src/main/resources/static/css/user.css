@@ -1,0 +1,112 @@
+
+body {
+    background-image: url("../img/background.jpg");
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.welcome {
+    color: black;
+    font-size: 100px;
+    font-family: "Helvetica Neue";
+    text-align: center;
+    letter-spacing: 15px;
+    font-style: italic;
+    position: static;
+    background-color: transparent;
+    border: 15px solid darkgoldenrod;
+    padding: 10px;
+    margin: 20px;
+}
+
+.info {
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    font-family: Serif;
+    margin-top: 30px;
+}
+
+.button {
+    background-color: transparent;
+    border: 10px solid darkgoldenrod;
+    color: black;
+    padding: 20px 34px;
+    text-decoration-line: none;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    display: block;
+    margin: 100px 60px;
+    cursor: pointer;
+    font-family: Serif;
+}
+
+h1 {
+    color: black;
+    font-size: 40px;
+    border: 5px solid darkgoldenrod;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    margin: 40px;
+    display: block;
+}
+
+.register {
+    background-color: transparent;
+    border: 15px solid white;
+    padding: 10px 10px 50px 10px;
+    margin: 150px 250px;
+    top: 50%;
+    left: 50%;
+    display: block;
+}
+
+label {
+    font-size: 20px;
+    font-family: "Trebuchet MS";
+    padding: 5px 5px 5px 5px;
+    display: inline-block;
+    font-weight: bolder;
+}
+
+#username, #password {
+    font-size: 20px;
+    display: inline-block;
+    padding: 10px 10px 10px 10px;
+    width: 500px;
+ }
+
+input[type="submit"] {
+    padding: 10px 15px 11px !important;
+    font-size: 18px !important;
+    background-color: darkgoldenrod;
+    font-weight: bold;
+    color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid darkgoldenrod;
+    cursor: pointer;
+    margin-right: 30px;
+    float: right;
+    width: 20%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 5px;
+    color: darkgoldenrod;
+}
+
+.alert {
+    margin-bottom: 20px;
+    margin-left: 10px;
+    font-family: "Trebuchet MS";
+    font-weight: bold;
+}
+
+.alert-danger {
+    color: darkred;
+}
+
