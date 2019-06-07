@@ -45,6 +45,7 @@ _2. WHY THYMELEAF?_
 Thymeleaf’s Spring integration made it one of the top choices for writing this application, the fact that it is fully implemented for and well supported makes it a very convenient option. Thymeleaf’s templating engine takes away the complexity of working with JSP with it’s more HTML focused structure, allowing you to build a user interface with much less complexity. Thymeleaf also reduces the build-deploy-test feedback loop making development a lot easier and faster. 
 
 _2. WHY LOMBOK?_
+
 Lombok is a java library that automatically plugs into your editor and build tools, spicing up your java. Using @Data annotation on a POJO automatically adds @ToString, @EqualsAndHashCode, @Getter on all fields, and @Setter on all non-final fields, and @RequiredArgsConstructor.
 
 **CLASS HIERARCHY**
