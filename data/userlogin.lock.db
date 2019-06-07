@@ -1,6 +1,0 @@
-#FileLock
-#Fri Jun 07 10:14:30 EDT 2019
-hostName=192.168.2.99
-id=16b324a061791400cfad7f3971020fc87df497c38a6
-method=file
-server=192.168.2.99\:51817
